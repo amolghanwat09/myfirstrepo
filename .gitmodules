@@ -1,0 +1,3 @@
+[submodule "LearnDevOps"]
+	path = LearnDevOps
+	url = https://github.com/tciaindiadevops/LearnDevOps.git
